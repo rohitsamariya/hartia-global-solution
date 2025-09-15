@@ -1,0 +1,261 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon5aef.ttf?7570edc53adf4a8945d8b15fdd594174") format("truetype"),
+url("../fonts/flaticon5aef.woff?7570edc53adf4a8945d8b15fdd594174") format("woff"),
+url("../fonts/flaticon5aef.woff2?7570edc53adf4a8945d8b15fdd594174") format("woff2"),
+url("../fonts/flaticon5aef.eot?7570edc53adf4a8945d8b15fdd594174#iefix") format("embedded-opentype"),
+url("../fonts/flaticon5aef.svg?7570edc53adf4a8945d8b15fdd594174#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, 
+i[class*="pbmit-cleanfin-icon-"]:before {
+    font-family: "flaticon"!important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-cleanfin-icon-hand:before {
+    content: "\f101";
+}
+.pbmit-cleanfin-icon-head:before {
+    content: "\f102";
+}
+.pbmit-cleanfin-icon-investment:before {
+    content: "\f103";
+}
+.pbmit-cleanfin-icon-umbrella:before {
+    content: "\f104";
+}
+.pbmit-cleanfin-icon-saving:before {
+    content: "\f105";
+}
+.pbmit-cleanfin-icon-dollar-coin:before {
+    content: "\f106";
+}
+.pbmit-cleanfin-icon-idea:before {
+    content: "\f107";
+}
+.pbmit-cleanfin-icon-saving-1:before {
+    content: "\f108";
+}
+.pbmit-cleanfin-icon-coins:before {
+    content: "\f109";
+}
+.pbmit-cleanfin-icon-coin:before {
+    content: "\f10a";
+}
+.pbmit-cleanfin-icon-tag:before {
+    content: "\f10b";
+}
+.pbmit-cleanfin-icon-shield:before {
+    content: "\f10c";
+}
+.pbmit-cleanfin-icon-credit-card:before {
+    content: "\f10d";
+}
+.pbmit-cleanfin-icon-book:before {
+    content: "\f10e";
+}
+.pbmit-cleanfin-icon-chat:before {
+    content: "\f10f";
+}
+.pbmit-cleanfin-icon-pencil:before {
+    content: "\f110";
+}
+.pbmit-cleanfin-icon-presentation:before {
+    content: "\f111";
+}
+.pbmit-cleanfin-icon-bitcoin:before {
+    content: "\f112";
+}
+.pbmit-cleanfin-icon-dustbin:before {
+    content: "\f113";
+}
+.pbmit-cleanfin-icon-exchange:before {
+    content: "\f114";
+}
+.pbmit-cleanfin-icon-money-bag:before {
+    content: "\f115";
+}
+.pbmit-cleanfin-icon-tax:before {
+    content: "\f116";
+}
+.pbmit-cleanfin-icon-medal:before {
+    content: "\f117";
+}
+.pbmit-cleanfin-icon-wallet:before {
+    content: "\f118";
+}
+.pbmit-cleanfin-icon-pie-chart:before {
+    content: "\f119";
+}
+.pbmit-cleanfin-icon-book-1:before {
+    content: "\f11a";
+}
+.pbmit-cleanfin-icon-web-cam:before {
+    content: "\f11b";
+}
+.pbmit-cleanfin-icon-email:before {
+    content: "\f11c";
+}
+.pbmit-cleanfin-icon-document:before {
+    content: "\f11d";
+}
+.pbmit-cleanfin-icon-location:before {
+    content: "\f11e";
+}
+.pbmit-cleanfin-icon-world:before {
+    content: "\f11f";
+}
+.pbmit-cleanfin-icon-startup:before {
+    content: "\f120";
+}
+.pbmit-cleanfin-icon-man:before {
+    content: "\f121";
+}
+.pbmit-cleanfin-icon-bank:before {
+    content: "\f122";
+}
+.pbmit-cleanfin-icon-plant-pot:before {
+    content: "\f123";
+}
+.pbmit-cleanfin-icon-setting:before {
+    content: "\f124";
+}
+.pbmit-cleanfin-icon-call-center:before {
+    content: "\f125";
+}
+.pbmit-cleanfin-icon-user:before {
+    content: "\f126";
+}
+.pbmit-cleanfin-icon-pie-chart-1:before {
+    content: "\f127";
+}
+.pbmit-cleanfin-icon-setting-1:before {
+    content: "\f128";
+}
+.pbmit-cleanfin-icon-hand-1:before {
+    content: "\f129";
+}
+.pbmit-cleanfin-icon-online-banking:before {
+    content: "\f12a";
+}
+.pbmit-cleanfin-icon-head-1:before {
+    content: "\f12b";
+}
+.pbmit-cleanfin-icon-globe:before {
+    content: "\f12c";
+}
+.pbmit-cleanfin-icon-certificate:before {
+    content: "\f12d";
+}
+.pbmit-cleanfin-icon-clipboard:before {
+    content: "\f12e";
+}
+.pbmit-cleanfin-icon-think:before {
+    content: "\f12f";
+}
+.pbmit-cleanfin-icon-global:before {
+    content: "\f130";
+}
+.pbmit-cleanfin-icon-global-network:before {
+    content: "\f131";
+}
+.pbmit-cleanfin-icon-video-call:before {
+    content: "\f132";
+}
+.pbmit-cleanfin-icon-light-bulb:before {
+    content: "\f133";
+}
+.pbmit-cleanfin-icon-paper:before {
+    content: "\f134";
+}
+.pbmit-cleanfin-icon-team:before {
+    content: "\f135";
+}
+.pbmit-cleanfin-icon-magnifying-glass:before {
+    content: "\f136";
+}
+.pbmit-cleanfin-icon-profile-picture:before {
+    content: "\f137";
+}
+.pbmit-cleanfin-icon-network:before {
+    content: "\f138";
+}
+.pbmit-cleanfin-icon-video-call-1:before {
+    content: "\f139";
+}
+.pbmit-cleanfin-icon-energy:before {
+    content: "\f13a";
+}
+.pbmit-cleanfin-icon-shield-1:before {
+    content: "\f13b";
+}
+.pbmit-cleanfin-icon-pie-graph:before {
+    content: "\f13c";
+}
+.pbmit-cleanfin-icon-laptop:before {
+    content: "\f13d";
+}
+.pbmit-cleanfin-icon-trophy:before {
+    content: "\f13e";
+}
+.pbmit-cleanfin-icon-paper-1:before {
+    content: "\f13f";
+}
+.pbmit-cleanfin-icon-support:before {
+    content: "\f140";
+}
+.pbmit-cleanfin-icon-business-trip:before {
+    content: "\f141";
+}
+.pbmit-cleanfin-icon-gold-bars:before {
+    content: "\f142";
+}
+.pbmit-cleanfin-icon-rocket:before {
+    content: "\f143";
+}
+.pbmit-cleanfin-icon-laptop-1:before {
+    content: "\f144";
+}
+.pbmit-cleanfin-icon-left-arrow:before {
+    content: "\f145";
+}
+.pbmit-cleanfin-icon-right-arrow:before {
+    content: "\f146";
+}
+.pbmit-cleanfin-icon-quote:before {
+    content: "\f147";
+}
+.pbmit-cleanfin-icon-up-arrow:before {
+    content: "\f148";
+}
+.pbmit-cleanfin-icon-thin-download-arrow:before {
+    content: "\f149";
+}
+.pbmit-cleanfin-icon-tick:before {
+    content: "\f14a";
+}
+.pbmit-cleanfin-icon-laptop-screen:before {
+    content: "\f14b";
+}
+.pbmit-cleanfin-icon-email-1:before {
+    content: "\f14c";
+}
+.pbmit-cleanfin-icon-location-1:before {
+    content: "\f14d";
+}
+.pbmit-cleanfin-icon-phone-call:before {
+    content: "\f14e";
+}
+.pbmit-cleanfin-icon-calendar:before {
+    content: "\f14f";
+}
+.pbmit-cleanfin-icon-bar-chart:before {
+    content: "\f150";
+}
